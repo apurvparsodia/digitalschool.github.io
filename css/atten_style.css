@@ -1,0 +1,42 @@
+.container{
+
+    height: 50vh;
+    text-align: center;
+    width: 40%;
+    margin-left: 31%;
+    padding: 10px;
+    background-color: #c4c0c0a8;
+    border: 2px solid rgba(175, 171, 171, 0.671);
+    border-radius: 4px;
+}
+.container h2{
+    font-size: 200%;
+    color: rgb(123, 121, 204);
+    border: 1px solid rgb(50, 93, 133);
+    padding: 10px;
+    background-color: rgba(160, 252, 255, 0.363);
+    border-radius: 80px;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+input[type="number"],
+input[type="password"]{
+    width: 50%;
+    padding: 5px;
+    border: 5px solid rgb(223, 208, 208);
+    border-radius: 5px;
+}
+/* .container a{
+    padding: 10px;
+    border: 5px solid black;
+} */
+input[type="submit"],input[type="reset"]{
+    width: 22%;
+    padding: 5px;
+    border: 2px solid rgb(104, 248, 229);
+    border-radius: 5px;
+    cursor: pointer;
+    color: rgb(201, 247, 156);
+    background-color: rgb(77, 77, 245);
+}
+
